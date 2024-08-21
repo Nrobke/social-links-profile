@@ -74,4 +74,5 @@ main{
 .profile-links li:active, .profile-links li:hover{
     color: hsl(0, 0%, 8%);
     background-color: hsl(75, 94%, 57%);
+    cursor: pointer;
 }
