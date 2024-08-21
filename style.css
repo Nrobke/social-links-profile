@@ -70,3 +70,8 @@ main{
     font-size: 14px;
     color: hsl(0, 0%, 100%);
 }
+
+.profile-links li:active, .profile-links li:hover{
+    color: hsl(0, 0%, 8%);
+    background-color: hsl(75, 94%, 57%);
+}
